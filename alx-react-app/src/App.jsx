@@ -34,9 +34,9 @@ function App() {
 />
 
 <UserProfile
-  name="Ama"
-  age="30"
-  bio="Enjoys painting and traveling."
+  name="Alice"
+  age="25"
+  bio="Loves hiking and photography."
 />
       <h1>Vite + React</h1>
       <div className="card">
